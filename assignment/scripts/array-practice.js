@@ -66,7 +66,9 @@ console.log( 'The last animal in the array is', animalArray[3]);
 // 3.c. (STRETCH) TODO: Log the last animal by using the array length, 
 //      instead of the exact index number of the last item
 
-console.log('Last animal in array is:', animalArray.length)
+let lastAnimal = 'Dog'
+console.log( 'Last animal in array is:', lastAnimal.length);
+// console.log('Last animal in array is:', animalArray.length)
 
 // 4. Adding & Removing Array Items
 console.log('--- 4. Adding and removing array items ---');
